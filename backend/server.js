@@ -14,7 +14,7 @@ const PORT = process.env.PORT || 4000;
 connectDB();
 
 const originsList = [
-  "https://hermanos-jota-v2.vercel.app",
+  "https://muebleria-hermanos-jota-eta.vercel.app/",
   "http://localhost:5173",
   "http://localhost:4173",
 ];
